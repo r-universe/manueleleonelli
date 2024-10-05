@@ -8,3 +8,6 @@
 [submodule "bnmonitor"]
 	path = bnmonitor
 	url = https://github.com/manueleleonelli/bnmonitor
+[submodule "extrememix"]
+	path = extrememix
+	url = https://github.com/manueleleonelli/extrememix
